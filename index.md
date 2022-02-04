@@ -2,8 +2,7 @@
 
 ## QB
 
-- [Rapid Fire]( https://www.youtube.com/watch?v=DG9MP0iV4pI)
+- ![QB Rapid Fire](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0e33834c-461a-4581-bf50-f7fb7ba14647.gif?ClientID=vimeo-core-prod&Date=1643993204&Signature=d9096bce83815b089495fc67ee1dbe261e0ee516)
+[Rapid Fire](https://www.youtube.com/watch?v=DG9MP0iV4pI)
+[Rapid Fire (vimeo)]https://vimeo.com/673658474)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
