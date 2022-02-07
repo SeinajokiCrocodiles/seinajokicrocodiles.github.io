@@ -8,4 +8,4 @@
 
 ## OL
 
-[Offensive Line - Vertical Set.pdf](./pdf/Offensive Line - Vertical Set.pdf)
+[Vertical Set](./pdf/Offensive Line - Vertical Set.pdf)
