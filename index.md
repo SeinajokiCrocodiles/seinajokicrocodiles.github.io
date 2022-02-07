@@ -17,4 +17,3 @@
 - [Attacking Vertical Set Pass Protection (High)](https://vimeo.com/674378081)
 - [vertical pass set (SD)](https://vimeo.com/674363837)
 - [UF OL Indy - Zone Tech](https://vimeo.com/674363831)
-- 
