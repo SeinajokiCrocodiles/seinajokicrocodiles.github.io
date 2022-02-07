@@ -8,4 +8,4 @@
 
 ## OL
 
-[Vertical Set](<https://seinajokicrocodiles.github.io/pdf/Offensive\ Line\ -\ Vertical\ Set.pdf>)
+[Vertical Set](<pdf/Offensive Line - Vertical Set.pdf>)
