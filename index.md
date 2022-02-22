@@ -3,6 +3,7 @@
 ## Tackling from [USA Football](https://usafootball.com/development-training/tackling-systems/)
 
 - [11 Form Tackle - Pop Up Tackle](https://www.youtube.com/watch?v=_ELmfYad7Gw)
+- ![Tux, the Linux mascot](https://i9.ytimg.com/vi/_ELmfYad7Gw/mq3.jpg?sqp=CNzR05AG&rs=AOn4CLAv27ydgEeYLdyVc6c0AyvzISabbg)
 
 ## QB
 
