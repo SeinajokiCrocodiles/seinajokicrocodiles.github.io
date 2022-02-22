@@ -2,9 +2,9 @@
 
 ## Tackling from [USA Football](https://usafootball.com/development-training/tackling-systems/)
 
-- [11 Form Tackle - Pop Up Tackle](https://www.youtube.com/watch?v=_ELmfYad7Gw)
+- [<img src="https://i9.ytimg.com/vi/_ELmfYad7Gw/mq3.jpg?sqp=CNzR05AG&rs=AOn4CLAv27ydgEeYLdyVc6c0AyvzISabbg" width="120" height="90"> 11 Form Tackle - Pop Up Tackle](https://www.youtube.com/watch?v=_ELmfYad7Gw)
 - ![Tux, the Linux mascot](https://i9.ytimg.com/vi/_ELmfYad7Gw/mq3.jpg?sqp=CNzR05AG&rs=AOn4CLAv27ydgEeYLdyVc6c0AyvzISabbg)
-<img src="https://i9.ytimg.com/vi/_ELmfYad7Gw/mq3.jpg?sqp=CNzR05AG&rs=AOn4CLAv27ydgEeYLdyVc6c0AyvzISabbg" width="120" height="90">
+
 ## QB
 
 <img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/0e33834c-461a-4581-bf50-f7fb7ba14647.gif?ClientID=vimeo-core-prod&Date=1643993204&Signature=d9096bce83815b089495fc67ee1dbe261e0ee516" width="120" height="90">
